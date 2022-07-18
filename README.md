@@ -11,7 +11,7 @@
   + 14/2/2021: Starting with PHP, MySQL
   + 15/8/2021: Started developing MineInUs website version 1, using Bootstrap,PHP.
   + 18/4/2022: Updated MineInUs website to version 2, using JQuery AJAX, PHP.
-  + 2/7/2022: Start with ReactJS
+  + 2/7/2022: Start with ReactJS,NodeJS and TailwindCSS
 
 
 <hr/>
