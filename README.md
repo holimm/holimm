@@ -8,15 +8,15 @@
 <h2 align="center">📞 Contact Me</h2>
 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/tea.limho" target="_blank">
+<a href="https://www.facebook.com/tea.limho">
   <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
-<a href="https://www.facebook.com/tea.limho" target="_blank">
+<a href="https://www.facebook.com/tea.limho">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/millohh_/" target="_blank">
+<a href="https://www.instagram.com/millohh_/">
   <img src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://steamcommunity.com/id/sihzu" target="_blank">
+<a href="https://steamcommunity.com/id/sihzu">
   <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>
 </p>
