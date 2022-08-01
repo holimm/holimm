@@ -23,18 +23,18 @@
 <hr/>
 <h2 align="center">📈 Languages and Framework I work with</h2>
 <div align="center">
-  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
-  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
-  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <hr/>
 <h2 align="center">🔧 Github Stats</h2>
