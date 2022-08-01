@@ -15,11 +15,11 @@
 
 
 <hr/>
-<h3 align="center"> Github Stats </h3>
+<h3 align="center" style='font-size: 10px'> Github Stats </h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holimm&layout=compact&hide_border=true&theme=vue&hide=html" alt="HoLimm" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holimm&theme=dracula&show_icons=true&layout=compact" alt="HoLimm" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=holimm&show_icons=true&hide_border=true&theme=vue" alt="HoLimm" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=holimm&theme=dracula&show_icons=true&layout=compact" alt="HoLimm" />
 </div>
 <hr/>
 <h3 align="center"> Social </h3>
