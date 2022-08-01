@@ -15,7 +15,7 @@
 
 
 <hr/>
-<h3 align="center"> ** Github Stats ** </h3>
+<h3 align="center"> ## Github Stats</h3>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holimm&theme=dracula&show_icons=true&layout=compact" alt="HoLimm" />
   &nbsp;
