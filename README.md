@@ -17,9 +17,9 @@
 <hr/>
 <h2 align="center">Github Stats</h2>
 <div align="center">
-  <img height="180em" width="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holimm&theme=dracula&show_icons=true&layout=compact" alt="HoLimm" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holimm&theme=dracula&show_icons=true&layout=compact" alt="HoLimm" />
   &nbsp;
-  <img height="180em" width="160em" src="https://github-readme-stats.vercel.app/api?username=holimm&theme=dracula&show_icons=true&layout=compact" alt="HoLimm" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=holimm&theme=dracula&show_icons=true&layout=compact" alt="HoLimm" />
 </div>
 <hr/>
 <h3 align="center"> Social </h3>
