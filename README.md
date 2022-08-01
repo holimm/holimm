@@ -4,12 +4,12 @@
 <div align="center">
   <img align="left" src="https://media.giphy.com/media/ysOtnle4uSbK/giphy.gif" width="300rem" height="300rem" ></img>
 </div>
-<h2 align="center">Contact Me</h2>
+<h2 align="center">📞 Contact Me</h2>
 <img height="50rem" width="150rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
 <img height="50rem" width="150rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <br><br><br><br>
 <hr/>
-<h2 align="center">Languages and Framework I work with</h2>
+<h2 align="center">📈 Languages and Framework I work with</h2>
 <div align="center">
   <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -25,7 +25,7 @@
   <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 </div>
 <hr/>
-<h2 align="center">Github Stats</h2>
+<h2 align="center">🔧 Github Stats</h2>
 <div align="center">
   <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holimm&theme=dracula&show_icons=true&layout=compact" alt="HoLimm" />
   &nbsp;
