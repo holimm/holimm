@@ -1,17 +1,9 @@
 <h1 align="center">Oh 👋, hi there!</h1>
 <h3 align="center">My name is Thái Hồ, I'm currently a Software Engineer Undergraduate at Saigon University.</h3>
 
-
-- 🔭 I’m currently working on [MineInUs](https://id.mineinus.com)
-
-- 👨‍💻 All of my projects are available at [https://github.com/holimm](https://github.com/holimm)
-
-- 🐣 My History Learning:
-  + 13/9/2019: Begin my journey at Saigon University
-  + 14/2/2021: Starting with PHP, MySQL
-  + 15/8/2021: Started developing MineInUs website version 1, using Bootstrap,PHP.
-  + 18/4/2022: Updated MineInUs website to version 2, using JQuery AJAX, PHP.
-  + 2/7/2022: Start with ReactJS,NodeJS and TailwindCSS
+<div align="center">
+<img src="https://media.giphy.com/media/ysOtnle4uSbK/giphy.gif" width="300rem" height="300rem" ></img>
+</div>
 <h2 align="center">Languages and Framework I work with</h2>
 <div align="center">
 <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
