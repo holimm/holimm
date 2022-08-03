@@ -21,7 +21,7 @@
 </a>
 </p>
 <hr/>
-<h2 align="center">📈 Languages and Framework I work with</h2>
+<h2 align="center">🔧 Languages and Framework I work with</h2>
 <div align="center">
   <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;&nbsp;
   <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&nbsp;&nbsp;
@@ -37,7 +37,7 @@
   <img height="50rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>&nbsp;&nbsp;
 </div>
 <hr/>
-<h2 align="center">🔧 Github Stats</h2>
+<h2 align="center">📈 Github Stats</h2>
 <div align="center">
   <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holimm&theme=dracula&show_icons=true&layout=compact" alt="HoLimm" />
   &nbsp;
